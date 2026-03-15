@@ -77,6 +77,6 @@ print("IP Address:",ip_address.decode())
 client_socket.close()
 ```
 ## OUPUT
-
+![output 1](1.png)
 ## RESULT
 Thus the Experiment implemented sucessfully
